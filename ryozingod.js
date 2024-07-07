@@ -481,7 +481,7 @@ if (db.data.settings[botNumber].autobio) {
 let setting = db.data.settings[botNumber]
 if (new Date() * 1 - setting.status > 1000) {
 let uptime = await runtime(process.uptime())
-await ryozingod.updateProfileStatus(`✳️ ZeroXV - Client By : ｃｏｂｒａ👺🌹 || ✅ Runtime : ${uptime}`)
+await ryozingod.updateProfileStatus(`✳️ ZeroXV - Client By : *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡👺🌹 || ✅ Runtime : ${uptime}`)
 setting.status = new Date() * 1
 }
 }
@@ -670,7 +670,7 @@ remoteJid: ""
 'message': {
   "eventMessage": {
     "isCanceled": false,
-    "name": "🌠 Ｍ-ＣＲＯＳＳ🕷️🕸️ - Multi Device",
+    "name": "🌠 BLUE DEMON🕷️🕸️ - Multi Device",
     "description": "Pe",
     "location": {
       "degreesLatitude": 0,
@@ -1736,7 +1736,7 @@ message: {
   "liveLocationMessage": {
     "degreesLatitude": "p",
     "degreesLongitude": "p",
-    "caption": `✳️᜴࿆͆᷍Ｍ-ＣＲＯＳＳ🌹╮⭑ ☠️⃰͜͡؜𝐙𝕩𝐕⃟⭐️᜴▴𝙴𝚣𝙲𝚛𝚊𝚜𝚑ཀ͜͡✅⃟╮.xp`+"ꦾ".repeat(60000),
+    "caption": `✳️᜴࿆͆᷍ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡🌹╮⭑ ☠️⃰͜͡؜𝐙𝕩𝐕⃟⭐️᜴▴𝙴𝚣𝙲𝚛𝚊𝚜𝚑ཀ͜͡✅⃟╮.xp`+"ꦾ".repeat(60000),
     "sequenceNumber": "0",
     "jpegThumbnail": ""
      }
@@ -1911,8 +1911,8 @@ let mydick = jinjing[randomIndex]
 let penisbengkok = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
-┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦 ⌟  ❐
-┃✢ Creator : Ｍ-ＣＲＯＳＳ🕷️
+┏❐  ⌜ *BLUE* 𝗗𝗘𝗠𝗢𝗡  ⌟  ❐
+┃✢ Creator : THE ONE🕷️
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Ready
@@ -1921,13 +1921,13 @@ let penisbengkok = `
 ┃✢ Prefix : Single
 ┗❐
 
-𝗗𝗘𝗠𝗢𝗡🕷️𝗠-𝗖𝗥𝗢𝗦𝗦`
+*BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡`
 
 let njing = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
-┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦⌟  ❐
-┃✢ Creator : 𝗠-𝗖𝗥𝗢𝗦𝗦
+┏❐  ⌜ *BLUE* 𝗗𝗘𝗠𝗢𝗡⌟  ❐
+┃✢ Creator : THE ONE
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Ready
@@ -1942,7 +1942,7 @@ let njing = `
 ❐${prefix}owner
 ❐${prefix}botstatus
 
-𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦`
+*BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡`
 
 //Button Menu
 let freesex = {
@@ -1954,7 +1954,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'Ｍ-ＣＲＯＳＳ🌹',
+"newsletterName": '*BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡',
 "serverMessageId": 1
 },
 },
@@ -1967,13 +1967,13 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "⿻  ~ Ｍ-ＣＲＯＳＳ🌹 ~   ⿻"
+"text": "⿻  ~ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡🌹 ~   ⿻"
 },
 "nativeFlowMessage": {
 "buttons": [
 {
 "name": "single_select",
-"buttonParamsJson": `{ "title": "⿻🕸️𝗠-𝗖𝗥𝗢𝗦𝗦🕷️⿻", "sections": [{ "title": "# !-Choose One Of Them", "highlight_label": "🌏General Commands🗨️", "rows": [{ "header": "ALL COMMAND", "title": "Show All Command", "id": ".allmenu" }, { "header": "Owner", "title": "Displays Owner Number", "id": ".owner" }, { "header": "Bot Info", "title": "Displays Information About Bots", "id": ".botstatus" }] }, { "title": "🦠 SpeCiaL - ComManD ❌", "highlight_label": " #SpeCial ", "rows": [{ "header": "Special - Menu", "title": "displays all special commands", "id": ".spesialmenu" }] }] }`
+"buttonParamsJson": `{ "title": "⿻🕸️*BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡🕷️⿻", "sections": [{ "title": "# !-Choose One Of Them", "highlight_label": "🌏General Commands🗨️", "rows": [{ "header": "ALL COMMAND", "title": "Show All Command", "id": ".allmenu" }, { "header": "Owner", "title": "Displays Owner Number", "id": ".owner" }, { "header": "Bot Info", "title": "Displays Information About Bots", "id": ".botstatus" }] }, { "title": "🦠 SpeCiaL - ComManD ❌", "highlight_label": " #SpeCial ", "rows": [{ "header": "Special - Menu", "title": "displays all special commands", "id": ".spesialmenu" }] }] }`
 },
 {
 "name": "cta_url",
@@ -1991,7 +1991,7 @@ let kontollurus = {
 image: mengkece,
 caption: njing,
 contextInfo:{externalAdReply:{
-title: '🕷️𝗗𝗘𝗩𝗜𝗟 𝗠-𝗖𝗥𝗢𝗦𝗦🕸️',
+title: '🕷️ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡🕸️',
 body: `👤 名前 : ${m.pushName}\n🕑${ucapanWaktu}`, 
 showAdAttribution: true,
 thumbnail: mydick,
@@ -2015,8 +2015,8 @@ let jinjing = [nulll, nulll2]
 let randomIndex = Math.floor(Math.random() * jinjing.length)
 let mydick = jinjing[randomIndex]
 let itsmenu = `
-┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦⌟  ❐
-┃✢ Creator : Ｍ-ＣＲＯＳＳ
+┏❐  ⌜ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡⌟  ❐
+┃✢ Creator : THE ONE
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Ready
@@ -2448,7 +2448,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'Ｍ-ＣＲＯＳＳ🌹',
+"newsletterName": '*BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡',
 "serverMessageId": 1
 },
 },
@@ -2461,7 +2461,7 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "⿻  ⌜ Ｍ-ＣＲＯＳＳ🌹 ⌟  ⿻"
+"text": "⿻  ⌜ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡 ⌟  ⿻"
 },
 "nativeFlowMessage": {
 "buttons": [
@@ -2506,8 +2506,8 @@ let mydick = jinjing[randomIndex]
 let itsmenu = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
-┏❐  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦 ⌟  ❐
-┃✢ Creator : Ｍ-ＣＲＯＳＳ
+┏❐  ⌜ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡 ⌟  ❐
+┃✢ Creator : THE ONE
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Maintenance 
@@ -2563,7 +2563,7 @@ let itsmenu = `
 ┃
 ┗❐
 
-𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦`
+*BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡`
 
 let msg = {
 viewOnceMessage: {
@@ -2587,7 +2587,7 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "⿻  ⌜ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦 ⌟  ⿻"
+"text": "⿻  ⌜ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡 ⌟  ⿻"
 },
 "nativeFlowMessage": {
 "buttons": [
@@ -2607,7 +2607,7 @@ let kontollurus = {
 image: mengkece,
 caption: itsmenu,
 contextInfo:{externalAdReply:{
-title: '⟠ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦🕷️ ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々',
+title: '⟠ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡🕷️ ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々',
 body: `👤 名前 : ${m.pushName}\n🕑${ucapanWaktu}`, 
 showAdAttribution: true,
 thumbnail: mydick,
@@ -2639,8 +2639,8 @@ let totalCases = caseCount,
 listCases = caseNames.join('\n✢ ');
 
 joreply(`
-┏❐  ⌜𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦 ⌟  ❐
-┃✢ Creator : Ｍ-ＣＲＯＳＳ
+┏❐  ⌜*BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡 ⌟  ❐
+┃✢ Creator : THE ONE
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Maintenance 
@@ -2668,18 +2668,18 @@ break
 case 'sc': case 'script': {
 joreply(`🌤I KNOW YOU REALLY NEED THIS SCRIPT BOSS🕸️🕷️.
           *SO DM MY BOSS IF YOU'RE REALLY READY TO PURCHASE THE SCRIPT*
-❕𝐎𝐖𝐍𝐄𝐑 : https://api.whatsapp.com/send?phone=+2347049602299
-𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦
+❕𝐎𝐖𝐍𝐄𝐑 : https://api.whatsapp.com/send?phone=+2347041039367
+*BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡
 `)
 }
 break
 //=================================================//
 case 'owner': case 'botowner':
-let namaown = `𝗠-𝗖𝗥𝗢𝗦𝗦`
+let namaown = `*BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡`
 var contact = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 "contactMessage": {
 "displayName": `${namaown}`,
-"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ Ｍ-ＣＲＯＳＳ🌹 ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ Ｍ-ＣＲＯＳＳ ༑ ]]\nEND:VCARD`,
+"vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;;;;\nFN:${namaown}\nitem1.TEL;waid=${global.ownMain}:+${global.ownMain}\nitem1.X-ABLabel:Ponsel\nX-WA-BIZ-DESCRIPTION:[[ ༑ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡 ༑ ]]\nX-WA-BIZ-NAME: [[ ༑ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡 ༑ ]]\nEND:VCARD`,
 }
 }), { userJid: m.chat, quoted: m })
 ryozingod.relayMessage(m.chat, contact.message, { messageId: contact.key.id })
@@ -3173,7 +3173,7 @@ if (!/image/.test(mime)) return joreply(`Send/Reply Foto Dengan Caption ${prefix
 joreply(mess.wait)
 let media = await quoted.download()
 let proses = await remini(media, "enhance");
-ryozingod.sendMessage(m.chat, { image: proses, caption: '*CLEARED PIX BY Ｍ-ＣＲＯＳＳ🌹'}, { quoted: m })
+ryozingod.sendMessage(m.chat, { image: proses, caption: '*CLEARED PIX BY *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡🌹'}, { quoted: m })
 }
 break
 //=================================================//
@@ -3722,7 +3722,7 @@ case 'glitchtext':
 case 'writetext':
 case 'advancedglow':
 case 'typographytext':
-case 'pixelglitch':
+	case 'pixelglitch':
 case 'neonglitch':
 case 'flagtext':
 case 'flag3dtext':
