@@ -481,7 +481,7 @@ if (db.data.settings[botNumber].autobio) {
 let setting = db.data.settings[botNumber]
 if (new Date() * 1 - setting.status > 1000) {
 let uptime = await runtime(process.uptime())
-await ryozingod.updateProfileStatus(`✳️ ZeroXV - Client By : Ｍ-ＣＲＯＳＳ🌹 || ✅ Runtime : ${uptime}`)
+await ryozingod.updateProfileStatus(`✳️ ZeroXV - Client By : ｃｏｂｒａ👺🌹 || ✅ Runtime : ${uptime}`)
 setting.status = new Date() * 1
 }
 }
@@ -677,7 +677,7 @@ remoteJid: ""
       "degreesLongitude": 0,
       "name": "Apakajajanabs"
     },
-    "joinLink": "https://api.whatsapp.com/send?phone=+2347049602299",
+    "joinLink": "https://api.whatsapp.com/send?phone=+2347041039367",
     "startTime": "1713724680"
   }
 }
