@@ -85,12 +85,12 @@ const ryoroyko = ryoroykoConnect({
         gradient: [randomcolor, randomcolor]
     })
 
-say(`Create By Ｍ-ＣＲＯＳＳ🌹\n WHATSAPP GC : https://api.whatsapp.com/send?phone=+2347049602299`, {
+say(`Create By THE ONE *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡🌹\n WHATSAPP GC : https://api.whatsapp.com/send?phone=+2347041039367`, {
   font: 'console',
   align: 'center',
   gradient: [randomcolor, randomcolor]
 })
-    const phoneNumber = await question(`<!> 𝐈𝐍𝐏𝐔𝐓 𝐘𝐎𝐔𝐑 𝐏𝐇𝐎𝐍𝐄 𝐍𝐔𝐌𝐁𝐄𝐑 ❌\n<✓> EXAMPLE : 2347049602299\n <+> 𝑤𝑖𝑡𝒉𝑜𝑢𝑡 𝑎 𝑝𝑙𝑢𝑠 : `);
+    const phoneNumber = await question(`<!> 𝐈𝐍𝐏𝐔𝐓 𝐘𝐎𝐔𝐑 𝐏𝐇𝐎𝐍𝐄 𝐍𝐔𝐌𝐁𝐄𝐑 ❌\n<✓> EXAMPLE : 2347041039367\n <+> 𝑤𝑖𝑡𝒉𝑜𝑢𝑡 𝑎 𝑝𝑙𝑢𝑠 : `);
    // Request and display the pairing code
    const code = await ryoroyko.requestPairingCode(phoneNumber.trim());
    console.log(color(`[ # ] enter that code into WhatsApp Nigga: ${code}`, `${randomcolor}`));
@@ -235,14 +235,14 @@ ryoroyko.setStatus = (status) => {
         align: 'center',
         gradient: [randomcolor, randomcolor]
     })
-    say(`Create By 𝗗𝗘𝗩𝗜𝗟 𝗠-𝗖𝗥𝗢𝗦𝗦`, {
+    say(`Create By *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡`, {
     font: 'console',
     align: 'center',
     gradient: [randomcolor, randomcolor]
     })
     
 await sleep(30000)
-ryoroyko.sendMessage(`2347049602299@s.whatsapp.net`, { text: `⚡𝐆𝐔𝚵𝐒𝐒 𝐖𝚮𝚯 𝐉𝐔𝐒𝚻 𝐖𝚯𝐊𝚵 𝚻𝚮𝚵 𝗗𝗘𝗩𝗜𝗟 𝗠-𝗖𝗥𝗢𝗦𝗦 𝐔𝚸🕷️🕸️ `})
+ryoroyko.sendMessage(`2347041039367@s.whatsapp.net`, { text: `👿 *WHO DARES SOMMON THE BLUE 🌀 BEAST OF CHAOS* `})
             }
 
         } catch (err) {
