@@ -670,7 +670,7 @@ remoteJid: ""
 'message': {
   "eventMessage": {
     "isCanceled": false,
-    "name": "🌠 BLUE DEMON🕷️🕸️ - Multi Device",
+    "name": "🌠 BLUE 🌀 DEMON - Multi Device",
     "description": "Pe",
     "location": {
       "degreesLatitude": 0,
@@ -771,7 +771,7 @@ newsletterAdminInviteMessage: {
 newsletterJid: `120363224727390375@newsletter`,
 newsletterName: `🔥`,
 jpegThumbnail: fakejpg,
-caption: ` 🕷️Ｍ-ＣＲＯＳＳ🕸️ ? \n ⿻ ${m.body || m.mtype} `,
+caption: ` BLUE 🌀 DEMON ? \n ⿻ ${m.body || m.mtype} `,
 inviteExpiration: Date.now() + 1814400000
 }
 }
@@ -867,7 +867,7 @@ message: {
 "jpegThumbnail": fakejpg,
 },
 "title": `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
-"description": `Ｍ-ＣＲＯＳＳ🌹`,
+"description": `BLUE 🌀 DEMON`,
 "currencyCode": "IDR",
 "priceAmount1000": "1000000000000000000",
 "retailerId": `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
@@ -999,8 +999,8 @@ title: `© Demon M-cross 4.0.0`,
 body: `${ucapanWaktu} ${m.pushName} 👋`,
 previewType: "VIDEO",
 thumbnail: selectedThumbnail,
-sourceUrl: `https://api.whatsapp.com/send?phone=+2347049602299`,
-mediaUrl: `https://api.whatsapp.com/send?phone=+2347049602299`
+sourceUrl: `https://api.whatsapp.com/send?phone=+2347041039367`,
+mediaUrl: `https://api.whatsapp.com/send?phone=+2347041039367`
 }
 },
 text: teks
@@ -1911,8 +1911,8 @@ let mydick = jinjing[randomIndex]
 let penisbengkok = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
-┏❐  ⌜ *BLUE* 𝗗𝗘𝗠𝗢𝗡  ⌟  ❐
-┃✢ Creator : THE ONE🕷️
+┏❐  ⌜ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡  ⌟  ❐
+┃✢ Creator : THE ONE👺
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Ready
@@ -1927,7 +1927,7 @@ let njing = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
 ┏❐  ⌜ *BLUE* 𝗗𝗘𝗠𝗢𝗡⌟  ❐
-┃✢ Creator : THE ONE
+┃✢ Creator : THE ONE👺
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Ready
@@ -1977,7 +1977,7 @@ interactiveMessage: {
 },
 {
 "name": "cta_url",
-"buttonParamsJson": "{\"display_text\":\"Saluran WhatsApp\",\"url\":\"https://api.whatsapp.com/send?phone=+2347049602299\",\"merchant_url\":\"https://whatsapp.com/channel/0029VadBczKI1rcayqzQ2n0e\"}"
+"buttonParamsJson": "{\"display_text\":\"Saluran WhatsApp\",\"url\":\"https://api.whatsapp.com/send?phone=+2347041039367\",\"merchant_url\":\"https://api.whatsapp.com/send?phone=+2347041039367\"}"
 }
 ],
 "messageParamsJson": ""
@@ -1991,7 +1991,7 @@ let kontollurus = {
 image: mengkece,
 caption: njing,
 contextInfo:{externalAdReply:{
-title: '🕷️ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡🕸️',
+title: '🕷️ BLUE 🌀 𝗗𝗘𝗠𝗢𝗡🕸️',
 body: `👤 名前 : ${m.pushName}\n🕑${ucapanWaktu}`, 
 showAdAttribution: true,
 thumbnail: mydick,
@@ -2467,7 +2467,7 @@ interactiveMessage: {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"⿻🕷️𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦⌟⿻\nAKU SUKA AMA LOBANG BOOL KAMU, AYO NGEGAY😋😘\",\"id\":\".terkentod\"}"
+"buttonParamsJson": "{\"display_text\":\"⿻🕷️*BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡⌟⿻\nAKU SUKA AMA LOBANG BOOL KAMU, AYO NGEGAY😋😘\",\"id\":\".terkentod\"}"
 }
 ],
 "messageParamsJson": ""
@@ -2481,7 +2481,7 @@ let kontollurus = {
 image: mengkece,
 caption: itsmenu,
 contextInfo:{externalAdReply:{
-title: '⟠ 𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦🕷️ ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々',
+title: '⟠ BLUE 🌀 𝗗𝗘𝗠𝗢𝗡🕷️ ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々',
 body: `👤 名前 : ${m.pushName}\n🕑${ucapanWaktu}`, 
 showAdAttribution: true,
 thumbnail: mydick,
@@ -2593,7 +2593,7 @@ interactiveMessage: {
 "buttons": [
 {
 "name": "quick_reply",
-"buttonParamsJson": "{\"display_text\":\"⿻𝗗𝗘𝗠𝗢𝗡 𝗠-𝗖𝗥𝗢𝗦𝗦🕷️⿻\nAs You Click that Name Tag be Gay bro😂💔🕸️\",\"id\":\".terkentod\"}"
+"buttonParamsJson": "{\"display_text\":\"⿻*BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡🕷️⿻\nwhy you click am,say 🧀 🧀 💔🕸️\",\"id\":\".terkentod\"}"
 }
 ],
 "messageParamsJson": ""
@@ -2607,7 +2607,7 @@ let kontollurus = {
 image: mengkece,
 caption: itsmenu,
 contextInfo:{externalAdReply:{
-title: '⟠ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡🕷️ ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々',
+title: '⟠ BLUE 🌀 𝗗𝗘𝗠𝗢𝗡🕷️ ⿻ 𝐂𝐋͢𝐢𝚵𝐍͢𝐓 々',
 body: `👤 名前 : ${m.pushName}\n🕑${ucapanWaktu}`, 
 showAdAttribution: true,
 thumbnail: mydick,
@@ -2639,7 +2639,7 @@ let totalCases = caseCount,
 listCases = caseNames.join('\n✢ ');
 
 joreply(`
-┏❐  ⌜*BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡 ⌟  ❐
+┏❐  ⌜ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡 ⌟  ❐
 ┃✢ Creator : THE ONE
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
