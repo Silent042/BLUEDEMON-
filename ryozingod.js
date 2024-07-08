@@ -995,7 +995,7 @@ mentionedJid: [m.sender],
 externalAdReply: {
 showAdAttribution: false,
 renderLargerThumbnail: false,
-title: `© Demon M-cross 4.0.0`,
+title: `© BLUE 🌀 DEMON 4.0.0`,
 body: `${ucapanWaktu} ${m.pushName} 👋`,
 previewType: "VIDEO",
 thumbnail: selectedThumbnail,
