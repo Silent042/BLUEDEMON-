@@ -86,5 +86,5 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 .\…………….\/../…..\....\/…………../
 ..\…………….. /……..\…………….../
 …\…………... (...…….)……………..
-—————————————————————
-      *`THE BLUE BEAST`*
+————————————————————— 
+      `THE BLUE BEAST`
