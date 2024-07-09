@@ -1,7 +1,7 @@
-<h1 align="center"> Created By King M-cross </h1>
+<h1 align="center"> Created By the BLUE🌀BEAST </h1>
 
 <p align="center">
-<img src="https://telegra.ph/file/7d316e1bd25e4b0def51c.jpg" width="360" height="360"/>
+<img src="https://telegra.ph/file/587140d98fe6e16b91ca9.jpg" width="360" height="360"/>
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ## Contact Me
   
 * [Telegram](KING M-CROSS)
-* [Whatsapp Direct Message](https://Wa.me/2349042566473?text=Boss%20ＫＩＮＧ🍀Ｍ-ＣＲＯＳＳ%20my%20name%20is___%20and%20I've%20saved%20your%20contact%20you%20should%20please%20save%20mine%20too%20%20✅)
+* [Whatsapp Direct Message](https://Wa.me/2347041039367?text=Boss%20BLUE🌀DEMON%20my%20name%20is___%20and%20I've%20saved%20your%20contact%20you%20should%20please%20save%20mine%20too%20%20✅)
 —————————————————————
 ┈╭━━━━━━━━━━━╮┈ ┈┃╭━━━╮┊╭━━━╮┃┈ ╭┫┃┈▇┈┃┊┃┈▇┈┃┣╮ ┃┃╰━━━╯┊╰━━━╯┃┃ ╰┫╭━╮╰━━━╯╭━╮┣╯ ┈┃┃┣┳┳┳┳┳┳┳┫┃┃┈ ┈┃┃╰┻┻┻┻┻┻┻╯┃┃┈ ┈╰━━━━━━━━━━━╯┈
 *`Y'ALL NIGGA`*
@@ -87,4 +87,4 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ..\…………….. /……..\…………….../
 …\…………... (...…….)……………..
 —————————————————————
-      *`KING M-CROSS`*
+      *`THE BLUE BEAST`*
