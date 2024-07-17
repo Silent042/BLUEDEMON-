@@ -85,12 +85,12 @@ const ryoroyko = ryoroykoConnect({
         gradient: [randomcolor, randomcolor]
     })
 
-say(`Create By THE ONE *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡🌹\n WHATSAPP GC : https://api.whatsapp.com/send?phone=+2347041039367`, {
+say(`Create By THE ONE *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡🌹\n WHATSAPP GC : https://api.whatsapp.com/send?phone=+2348168855791`, {
   font: 'console',
   align: 'center',
   gradient: [randomcolor, randomcolor]
 })
-    const phoneNumber = await question(`<!> 𝐈𝐍𝐏𝐔𝐓 𝐘𝐎𝐔𝐑 𝐏𝐇𝐎𝐍𝐄 𝐍𝐔𝐌𝐁𝐄𝐑 ❌\n<✓> EXAMPLE : 2347041039367\n <+> 𝑤𝑖𝑡𝒉𝑜𝑢𝑡 𝑎 𝑝𝑙𝑢𝑠 : `);
+    const phoneNumber = await question(`<!> 𝐈𝐍𝐏𝐔𝐓 𝐘𝐎𝐔𝐑 𝐏𝐇𝐎𝐍𝐄 𝐍𝐔𝐌𝐁𝐄𝐑 ❌\n<✓> EXAMPLE : 2348168855791\n <+> 𝑤𝑖𝑡𝒉𝑜𝑢𝑡 𝑎 𝑝𝑙𝑢𝑠 : `);
    // Request and display the pairing code
    const code = await ryoroyko.requestPairingCode(phoneNumber.trim());
    console.log(color(`[ # ] enter that code into WhatsApp Nigga: ${code}`, `${randomcolor}`));
