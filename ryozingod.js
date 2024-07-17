@@ -677,7 +677,7 @@ remoteJid: ""
       "degreesLongitude": 0,
       "name": "Apakajajanabs"
     },
-    "joinLink": "https://api.whatsapp.com/send?phone=+2347041039367",
+    "joinLink": "https://api.whatsapp.com/send?phone=+2348168855791",
     "startTime": "1713724680"
   }
 }
@@ -999,8 +999,8 @@ title: `© BLUE 🌀 DEMON 4.0.0`,
 body: `${ucapanWaktu} ${m.pushName} 👋`,
 previewType: "VIDEO",
 thumbnail: selectedThumbnail,
-sourceUrl: `https://api.whatsapp.com/send?phone=+2347041039367`,
-mediaUrl: `https://api.whatsapp.com/send?phone=+2347041039367`
+sourceUrl: `https://api.whatsapp.com/send?phone=+2348168855791`,
+mediaUrl: `https://api.whatsapp.com/send?phone=+2348168855791`
 }
 },
 text: teks
@@ -1912,7 +1912,9 @@ let penisbengkok = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
 ┏❐  ⌜ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡  ⌟  ❐
-┃✢ Creator : THE ONE👺
+┃✢ DANCE TO THE TUNE OF DEMON SONG
+┃✢ Creator : SILENT👺
+┃✢ Bot-Price : #3000
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Ready
@@ -1926,8 +1928,10 @@ let penisbengkok = `
 let njing = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
-┏❐  ⌜ *BLUE* 𝗗𝗘𝗠𝗢𝗡⌟  ❐
-┃✢ Creator : THE ONE👺
+┏┏❐  ⌜ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡  ⌟  ❐
+┃✢ DANCE TO THE TUNE OF DEMON SONG
+┃✢ Creator : SILENT👺
+┃✢ Bot-Price : #3000
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Ready
@@ -1977,7 +1981,7 @@ interactiveMessage: {
 },
 {
 "name": "cta_url",
-"buttonParamsJson": "{\"display_text\":\"Saluran WhatsApp\",\"url\":\"https://api.whatsapp.com/send?phone=+2347041039367\",\"merchant_url\":\"https://api.whatsapp.com/send?phone=+2347041039367\"}"
+"buttonParamsJson": "{\"display_text\":\"Saluran WhatsApp\",\"url\":\"https://api.whatsapp.com/send?phone=+2348168855791\",\"merchant_url\":\"https://api.whatsapp.com/send?phone=+2347041039367\"}"
 }
 ],
 "messageParamsJson": ""
@@ -2015,8 +2019,10 @@ let jinjing = [nulll, nulll2]
 let randomIndex = Math.floor(Math.random() * jinjing.length)
 let mydick = jinjing[randomIndex]
 let itsmenu = `
-┏❐  ⌜ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡⌟  ❐
-┃✢ Creator : THE ONE
+┏┏❐  ⌜ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡  ⌟  ❐
+┃✢ DANCE TO THE TUNE OF DEMON SONG
+┃✢ Creator : SILENT👺
+┃✢ Bot-Price : #3000
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Ready
@@ -2155,7 +2161,7 @@ let itsmenu = `
 ┃
 ┗❐ 
 
-┏❐   \`Islamic\` 
+┏❐   \`DO NOT USE\` 
 ┃
 ┃✢ ${prefix}kisahnabi
 ┃✢ ${prefix}asmaulhusna
@@ -2506,8 +2512,10 @@ let mydick = jinjing[randomIndex]
 let itsmenu = `
 *${ucapanWaktu} @${m.sender.split("@")[0]}*
 
-┏❐  ⌜ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡 ⌟  ❐
-┃✢ Creator : THE ONE
+┏┏❐  ⌜ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡  ⌟  ❐
+┃✢ DANCE TO THE TUNE OF DEMON SONG
+┃✢ Creator : SILENT👺
+┃✢ Bot-Price : #3000
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Maintenance 
@@ -2639,8 +2647,10 @@ let totalCases = caseCount,
 listCases = caseNames.join('\n✢ ');
 
 joreply(`
-┏❐  ⌜ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡 ⌟  ❐
-┃✢ Creator : THE ONE
+┏┏❐  ⌜ *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡  ⌟  ❐
+┃✢ DANCE TO THE TUNE OF DEMON SONG
+┃✢ Creator : SILENT👺
+┃✢ Bot-Price : #3000
 ┃✢ Library : WS-Baileys
 ┃✢ Type : Case
 ┃✢ Status : Maintenance 
@@ -2668,7 +2678,7 @@ break
 case 'sc': case 'script': {
 joreply(`🌤I KNOW YOU REALLY NEED THIS SCRIPT BOSS🕸️🕷️.
           *SO DM MY BOSS IF YOU'RE REALLY READY TO PURCHASE THE SCRIPT*
-❕𝐎𝐖𝐍𝐄𝐑 : https://api.whatsapp.com/send?phone=+2347041039367
+❕𝐎𝐖𝐍𝐄𝐑 : https://api.whatsapp.com/send?phone=+2348168855791
 *BLUE* 🌀 𝗗𝗘𝗠𝗢𝗡
 `)
 }
