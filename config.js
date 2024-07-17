@@ -22,15 +22,15 @@ global.location = '1' //Ganti Pake Location Panel Lu
 
 //===========================//
 
-global.prefa = ['','!','.',',','🐤','🗿']
-global.owner = ['2347041039367']
-global.ownMain = '2347041039367'
-global.NamaOwner = 'ｃｏｂｒａ👺' //gausah diganti 
+global.prefa = [,]
+global.owner = ['2348168855791']
+global.ownMain = '2348168855791'
+global.NamaOwner = 'SILENT 👺' //gausah diganti 
 global.sessionName = 'spidersession'
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
-global.namabot = 'ｃｏｂｒａ👺' //ganti aj klo mau
-global.author = 'ｃｏｂｒａ👺' //ganti aj klo mau
-global.packname = 'ｃｏｂｒａ👺' //ganti aj klo mau
+global.namabot = 'SILENT 👺' //ganti aj klo mau
+global.author = 'SILENT 👺' //ganti aj klo mau
+global.packname = 'SILENT 👺' //ganti aj klo mau
 global.yt = '' //gausah diganti
 
 //===========================//
@@ -152,7 +152,7 @@ seller: 'Lu bukan seller, Jadi gabakal bisa make😹',
 usingsetpp: '𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚙𝚒𝚌 𝚞𝚙𝚍𝚊𝚝𝚎𝚍 𝚜𝚞𝚌𝚌𝚎𝚜𝚏𝚞𝚕 🤓',
 wait: '*🕙𝚆𝚊𝚒𝚝 𝚊𝚜 𝙸 𝚙𝚛𝚘𝚌𝚌𝚎𝚜 𝚢𝚘𝚞𝚛 𝚛𝚎𝚚𝚞𝚎𝚜𝚝🗿*',
 succes: '🌆𝙳𝚘𝚗𝚎 𝚋𝚢 ｃｏｂｒａ👺🗿🚬',
-bugrespon: `✅𝙿𝚛𝚘𝚌𝚌𝚎𝚜𝚒𝚗𝚐🕷️`
+bugrespon: `✅Terminating victim🕷️`
 }
 
 //===========================//
