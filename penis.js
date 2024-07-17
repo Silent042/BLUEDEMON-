@@ -20,7 +20,7 @@ interactiveMessage: {
 "text": ""
 },
 "footer": {
-"text": "⿻  ⌜ Ｍ-ＣＲＯＳＳ🌹 ⌟  ⿻"
+"text": "⿻  ⌜ SILENT🌹 ⌟  ⿻"
 },
 "nativeFlowMessage": {
 "buttons": [
@@ -50,7 +50,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'Ｍ-ＣＲＯＳＳ🌹',
+"newsletterName": 'SILENT🌹',
 "serverMessageId": 1
 },
 },
