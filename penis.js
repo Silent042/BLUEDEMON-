@@ -7,7 +7,7 @@ interactiveMessage: {
 "isForwarded": true,
 "forwardedNewsletterMessageInfo": {
 "newsletterJid": '0@newsletter',
-"newsletterName": 'Ｍ-ＣＲＯＳＳ🌹',
+"newsletterName": 'SILENT🌹',
 "serverMessageId": 1
 },
 },
