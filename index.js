@@ -242,7 +242,7 @@ ryoroyko.setStatus = (status) => {
     })
     
 await sleep(30000)
-ryoroyko.sendMessage(`2347041039367@s.whatsapp.net`, { text: `👿 *WHO DARES SOMMON THE BLUE 🌀 BEAST OF CHAOS* `})
+ryoroyko.sendMessage(`2349012220986@s.whatsapp.net`, { text: `👿 *WHO DARES SOMMON THE BLUE 🌀 BEAST OF CHAOS* `})
             }
 
         } catch (err) {
